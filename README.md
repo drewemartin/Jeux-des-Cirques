@@ -1,6 +1,6 @@
 #Welcome to Jeux-des-Cirques
 
-This is a circle popping game similar to Wii Play's 'Shooting Range'
+This is a circle popping game similar to Wii Play's 'Shooting Range'. 2nd time practicing concept.
 
 
 ###Functionality Highlights
